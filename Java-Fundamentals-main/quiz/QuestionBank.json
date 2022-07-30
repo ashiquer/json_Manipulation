@@ -1,0 +1,82 @@
+[
+  {
+    "Answer": "a",
+    "Option-d": "Regression Testing",
+    "Question": "Which testing is done by developer?",
+    "Option-a": "Unit Testing",
+    "Option-b": "Integration Testing",
+    "Option-c": "Sanity Testing"
+  },
+  {
+    "Answer": "c",
+    "Option-d": "Benchmark Testing",
+    "Question": "Which is functional testing?",
+    "Option-a": "Load Testing",
+    "Option-b": "Security Testing",
+    "Option-c": "Gorilla Testing"
+  },
+  {
+    "Answer": "a",
+    "Option-d": "Analyzing the cause of failure",
+    "Question": "Which of the following is a typical test objective?\n",
+    "Option-a": "Preventing defects",
+    "Option-b": "Repairing defects",
+    "Option-c": "Comparing actual results to expected results"
+  },
+  {
+    "Answer": "d",
+    "Option-d": "The defect",
+    "Question": "A phone ringing momentarily distracts a programmer, causing the programmer to improperly \nprogram the logic that checks the upper boundary of an input variable. Later, during system \ntesting, a tester notices that this input field accepts invalid input values. The improperly coded logic \nfor the upper boundary check is:\n",
+    "Option-a": "The root cause",
+    "Option-b": "The failure",
+    "Option-c": "The error"
+  },
+  {
+    "Answer": "b",
+    "Option-d": "Root cause analysis",
+    "Question": "A product owner says that your role as a tester on an Agile team is to catch all the bugs before the \nend of each iteration. Which of the following is a testing principle that could be used to respond to \nthis (false) statement?\n",
+    "Option-a": "Defect clustering",
+    "Option-b": "Testing shows the presence of defects",
+    "Option-c": "Absence of error fallacy"
+  },
+  {
+    "Answer": "d",
+    "Option-d": "Attention to detail",
+    "Question": "Programmers often write and execute unit tests against code which they have written. During this \nself-testing activity, which of the following is a tester mindset that programmers should adopt to \nperform this unit testing effectively?\n",
+    "Option-a": "Good communication skills",
+    "Option-b": "Code coverage",
+    "Option-c": "Evaluating code defects"
+  },
+  {
+    "Answer": "c",
+    "Option-d": "Reducing the risk of untestable functionality",
+    "Question": "A tester participated in a discussion about proposed database structure. The tester identified a \npotential performance problem related to certain common user searches. This possible problem \nwas explained to the development team. Which of the following is a testing contribution to success \nthat BEST matches this situation?\n",
+    "Option-a": "Enabling required tests to be identified at an early stag",
+    "Option-b": "Ensuring processes are carried out properly",
+    "Option-c": "Reducing the risk of fundamental design defects"
+  },
+  {
+    "Answer": "d",
+    "Option-d": " none of the mentioned",
+    "Question": "Which of the following is not included in failure costs?\n",
+    "Option-a": "rework",
+    "Option-b": "repai",
+    "Option-c": "failure mode analysis"
+  },
+  {
+    "Answer": "b",
+    "Option-d": "documents to be produced by the SQA group",
+    "Question": "Which of the following is not a SQA plan for a project?\n",
+    "Option-a": "evaluations to be performed",
+    "Option-b": "amount of technical work",
+    "Option-c": "audits and reviews to be performed"
+  },
+  {
+    "Answer": "a",
+    "Option-d": "complaint resolution",
+    "Question": "Which of the following is not included in External failure costs?",
+    "Option-a": " testing",
+    "Option-b": "help line support",
+    "Option-c": "warranty work"
+  }
+]
